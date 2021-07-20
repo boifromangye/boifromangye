@@ -2,7 +2,7 @@
 
 👋 I’m 권태우!   
 👀 I’m interested in ⚽️, ⚾️, 🎧, 📸, and 💻.   
-💻 I’m currently learning Computer Engineering at KPU.  
+💻 I’m learning Computer Engineering at KPU.  
 
 ### Show U what I got 💪🏻
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/></a>
