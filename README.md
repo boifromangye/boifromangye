@@ -2,9 +2,10 @@
 
 👀 interested in 📸 and 💻.   
 💻 learning Computer Engineering at KPU in ROK.  
-⚽️ 
-🎧
-⚾️
+⚽️ MADRIDISTA and goalkeeper player.  
+🎧 listening to hip-hop, rock, classic and 조용필.  
+⚾️ big fan of SamsungLions and NewyorkYankees.  
+💪 working out errday.  
 
 ### Show U what I got ⭐️
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/></a>
