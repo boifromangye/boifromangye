@@ -3,7 +3,7 @@
 👀 interested in 📸 and 🖥.   
 💻 learning Computer Engineering at KPU in ROK.  
 ⚽️ MADRIDISTA and goalkeeper player.  
-🎧 listening to hip-hop, rock, R&B and 조용필.  
+🎧 listening to hip-hop, rock, R&B and BLACKPINK.  
 ⚾️ big fan of SamsungLions and NewyorkYankees.  
 💪 working out errday.  
 
