@@ -1,10 +1,12 @@
-### Hi there 👋🏻
+### 안녕 👋🏻
 
-👋 I’m 권태우!   
-👀 I’m interested in ⚽️, ⚾️, 🎧, 📸, and 💻.   
-💻 I’m learning Computer Engineering at KPU in ROK.  
+👀 interested in 📸 and 💻.   
+💻 learning Computer Engineering at KPU in ROK.  
+⚽️ 
+🎧
+⚾️
 
-### Show U what I got 💪🏻
+### Show U what I got ⭐️
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/kotlin-brightgreen?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
