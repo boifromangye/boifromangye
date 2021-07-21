@@ -1,6 +1,6 @@
 ### 안녕 👋🏻
 
-👀 interested in 📸 and 💻.   
+👀 interested in 📸 and 🖥.   
 💻 learning Computer Engineering at KPU in ROK.  
 ⚽️ MADRIDISTA and goalkeeper player.  
 🎧 listening to hip-hop, rock, classic and 조용필.  
