@@ -5,7 +5,7 @@
 ⚽️ MADRIDISTA and goalkeeper player.  
 🎧 listening to hip-hop, rock, R&B and BLACKPINK.  
 ⚾️ big fan of SamsungLions and NewyorkYankees.  
-📣 speaking Korean, English and Español.
+📣 speaking 한국어, English and Español.
 
 ### Show U what I got ⭐️
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/></a>
