@@ -1,11 +1,11 @@
 ### 안녕 👋🏻
 
 👀 interested in 📸 and 🖥.   
-💻 learning Computer Engineering at KPU in ROK.  
+💻 learning Computer Engineering at TUKorea in ROK.  
 ⚽️ MADRIDISTA and goalkeeper player.  
 🎧 listening to hip-hop, rock, R&B and BLACKPINK.  
 ⚾️ big fan of SamsungLions and NewyorkYankees.  
-💪 working out errday.  
+📣 speaking Korean, English and Español.
 
 ### Show U what I got ⭐️
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/></a>
