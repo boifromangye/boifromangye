@@ -4,7 +4,7 @@
 💻 learning Computer Engineering at TUKorea in ROK.  
 ⚽️ MADRIDISTA and goalkeeper player.  
 🎧 listening to hip-hop, rock, R&B and BLACKPINK.  
-⚾️ big fan of SamsungLions and NewyorkYankees.  
+⚾️ fan of SamsungLions.  
 📣 speaking 한국어, English and Español.
 
 ### Show U what I got ⭐️
