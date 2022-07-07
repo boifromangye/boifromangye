@@ -1,10 +1,6 @@
 ### 안녕 👋🏻
 
-👀 interested in 📸 and 🖥.   
 💻 learning Computer Engineering at TUKorea in ROK.  
-⚽️ MADRIDISTA and goalkeeper player.  
-🎧 listening to hip-hop, rock, R&B and BLACKPINK.  
-⚾️ fan of SamsungLions.  
 📣 speaking 한국어, English and Español.
 
 ### Show U what I got ⭐️
