@@ -5,14 +5,7 @@
 
 ### Show U what I got ⭐️
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-lightgray?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/kotlin-brightgreen?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C%2B%2B-blueviolet?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/FireBase-orange?style=flat-square&logo=Firebase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rhino7-gray?style=flat-square&logo=Rhinoceros&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/FIFAOnline4-blue?style=flat-square&logo=FIFA&logoColor=white"/></a>
 
 ### If U wanna know more bout ME
