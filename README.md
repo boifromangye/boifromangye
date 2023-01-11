@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FIFAOnline4-326295?style=flat-square&logo=FIFA&logoColor=white"/></a>
 
 ### If U wanna know more bout ME
 <a href="https://www.instagram.com/boifromangye/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/boifromangye/"/></a>
